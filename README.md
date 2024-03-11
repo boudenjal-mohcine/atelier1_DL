@@ -3,7 +3,7 @@
 ## Objective
 This lab aims to familiarize with PyTorch library for Regression and Multi-Class Classification tasks using Deep Neural Networks (DNNs)/Multi-Layer Perceptrons (MLPs).
 
-## Part One: Regression
+## Regression
 
 ### 1. Exploratory Data Analysis (EDA)
 - Understand and visualize the dataset to gain insights.
@@ -20,7 +20,7 @@ This lab aims to familiarize with PyTorch library for Regression and Multi-Class
 ### 5. Regularization
 - Apply various regularization techniques and compare with the initial model.
 
-## Part Two: Multi-Class Classification
+## Multi-Class Classification
 
 ### 1. Data Preprocessing
 - Clean and standardize/normalize the data.
